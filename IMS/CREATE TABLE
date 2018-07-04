@@ -1,0 +1,14 @@
+CREATE TABLE Persons (
+    ID int NOT NULL AUTO_INCREMENT,
+    Name varchar(255) NOT NULL,
+    Type varchar(1000) NOT NULL,
+    Plays varchar(1000)  DEFAULT '',
+    Nobels varchar(1000)  DEFAULT '',
+    Poems varchar(1000)  DEFAULT '',
+    Essays varchar(1000) DEFAULT '',
+    Address varchar(1000) DEFAULT '',    
+    Country varchar(1000) DEFAULT '',
+    
+ 
+    PRIMARY KEY (ID)
+)

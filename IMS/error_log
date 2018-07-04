@@ -1,0 +1,105 @@
+[27-Apr-2018 15:35:05 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/CutomersCode.php on line 9
+[27-Apr-2018 15:35:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/CutomersCode.php on line 9
+[27-Apr-2018 15:35:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/biddutxy/public_html/test/CutomersCode.php on line 21
+[27-Apr-2018 15:36:26 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/CutomersCode.php on line 9
+[27-Apr-2018 15:36:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/CutomersCode.php on line 9
+[27-Apr-2018 15:36:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/biddutxy/public_html/test/CutomersCode.php on line 21
+[30-Apr-2018 17:57:14 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 17:58:06 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 17:58:07 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 17:58:08 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 18:00:35 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 18:00:38 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 18:01:59 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 18:03:02 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 8
+[30-Apr-2018 18:32:36 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/biddutxy/public_html/test/sendmail.php on line 9
+[07-Jun-2018 15:44:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/biddutxy/public_html/test/home.php:5) in /home/biddutxy/public_html/test/home.php on line 6
+[07-Jun-2018 15:44:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/biddutxy/public_html/test/home.php:5) in /home/biddutxy/public_html/test/home.php on line 6
+[07-Jun-2018 15:44:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biddutxy/public_html/test/home.php:5) in /home/biddutxy/public_html/test/home.php on line 10
+[07-Jun-2018 15:44:12 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/biddutxy/public_html/test/home.php:5) in /home/biddutxy/public_html/test/home.php on line 6
+[07-Jun-2018 15:44:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/biddutxy/public_html/test/home.php:5) in /home/biddutxy/public_html/test/home.php on line 6
+[07-Jun-2018 15:44:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/biddutxy/public_html/test/home.php:5) in /home/biddutxy/public_html/test/home.php on line 10
+[07-Jun-2018 17:16:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[07-Jun-2018 17:20:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[07-Jun-2018 17:22:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 122
+[07-Jun-2018 18:03:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 122
+[07-Jun-2018 18:15:19 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 122
+[07-Jun-2018 18:15:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 122
+[07-Jun-2018 18:15:23 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 122
+[07-Jun-2018 18:15:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 122
+[07-Jun-2018 18:20:42 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:20:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:23:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:23:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:24:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:25:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:28:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:28:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:28:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:29:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:29:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 114
+[07-Jun-2018 18:30:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:30:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:30:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:37:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: NO) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:37:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: NO) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:39:19 UTC] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:39:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:40:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:50:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_ims'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/imsPorders.php on line 115
+[07-Jun-2018 18:52:51 UTC] PHP Fatal error:  Cannot access self:: when no class scope is active in /home/biddutxy/public_html/test/imsPorders.php on line 123
+[10-Jun-2018 08:54:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/CutomersCode.php on line 16
+[10-Jun-2018 08:54:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/biddutxy/public_html/test/CutomersCode.php on line 28
+[10-Jun-2018 09:10:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/registrationims.php on line 16
+[10-Jun-2018 09:10:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/biddutxy/public_html/test/registrationims.php on line 27
+[10-Jun-2018 09:10:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/registrationims.php on line 16
+[10-Jun-2018 09:10:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/biddutxy/public_html/test/registrationims.php on line 27
+[10-Jun-2018 09:22:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[10-Jun-2018 09:23:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biddutxy/public_html/test/imsregistration.php on line 18
+[10-Jun-2018 09:23:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biddutxy/public_html/test/imsregistration.php on line 18
+[10-Jun-2018 09:25:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[10-Jun-2018 09:27:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[10-Jun-2018 09:27:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[10-Jun-2018 09:27:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'biddutxy_biddut'@'us03.solidhosting.pro' (using password: YES) in /home/biddutxy/public_html/test/ims_db_connect.php on line 7
+[10-Jun-2018 15:49:50 UTC] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/biddutxy/public_html/test/CutomersCode.php on line 15
+[10-Jun-2018 15:49:56 UTC] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/biddutxy/public_html/test/CutomersCode.php on line 15
+[10-Jun-2018 15:52:41 UTC] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/biddutxy/public_html/test/CutomersCode.php on line 15
+[10-Jun-2018 17:13:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[10-Jun-2018 17:14:12 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[10-Jun-2018 17:14:50 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[10-Jun-2018 17:19:02 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[10-Jun-2018 17:23:45 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[10-Jun-2018 17:25:07 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[10-Jun-2018 17:25:38 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/CutomersCode.php on line 11
+[11-Jun-2018 09:44:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/biddutxy/public_html/test/imscustomers.php on line 215
+[11-Jun-2018 09:44:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/biddutxy/public_html/test/imscustomers.php on line 215
+[11-Jun-2018 09:44:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/biddutxy/public_html/test/imscustomers.php on line 215
+[11-Jun-2018 09:45:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/biddutxy/public_html/test/imscustomers.php on line 218
+[11-Jun-2018 09:49:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/biddutxy/public_html/test/imscustomers.php on line 173
+[11-Jun-2018 09:49:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/biddutxy/public_html/test/imscustomers.php on line 175
+[12-Jun-2018 05:53:14 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 16
+[12-Jun-2018 05:53:14 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[12-Jun-2018 05:53:17 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 16
+[12-Jun-2018 05:53:17 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[12-Jun-2018 05:53:20 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 16
+[12-Jun-2018 05:53:20 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[12-Jun-2018 05:53:45 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 16
+[12-Jun-2018 05:53:45 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[12-Jun-2018 05:54:06 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 16
+[12-Jun-2018 05:54:06 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[12-Jun-2018 05:54:25 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 16
+[12-Jun-2018 05:54:25 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[13-Jun-2018 09:59:48 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[13-Jun-2018 09:59:49 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 18
+[13-Jun-2018 10:01:28 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[13-Jun-2018 10:01:28 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 18
+[14-Jun-2018 05:48:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 17
+[14-Jun-2018 05:48:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsCustomersCode.php on line 18
+[25-Jun-2018 05:32:21 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 17
+[25-Jun-2018 05:32:21 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 18
+[25-Jun-2018 05:51:32 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 17
+[25-Jun-2018 05:51:32 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 18
+[25-Jun-2018 05:52:50 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 17
+[25-Jun-2018 05:52:50 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 18
+[25-Jun-2018 06:14:00 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 17
+[25-Jun-2018 06:14:00 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/biddutxy/public_html/test/imsSuppliersCode.php on line 18
